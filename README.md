@@ -16,6 +16,8 @@
 ついつい散らかってしまいがちなタブ。  
 同じタブを一括で閉じてくれたり、ウィンドウ内のすべてのタブをリロードしてくれたりします。
 
+---
+
 ### Web Developer
 
 [https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=ja](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=ja)
